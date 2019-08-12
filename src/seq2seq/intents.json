@@ -1,0 +1,58 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "hello", "hiya", "Hi there", "How are you", "Is anyone there?", "Hello", "Good day"],
+         "responses": ["Hello, How can I help you?", "Hi there!"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+         "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["You are welcome", "Glad I could help", "Happy to be of assistance"],
+         "context": [""]
+        },
+        {"tag": "info",
+        "patterns": ["Who are you", "Give your intro", "Can I know about you", "Can you tell me about yourself"],
+        "responses": ["I am Tau, and I will try to answer your queries about Credit Suisse"],
+        "context": [""]
+        },
+        {"tag": "great",
+        "patterns": ["Great", "Good work", "Good help", "Great work"],
+        "responses": ["Thank you", "Hope your queries were resolved"],
+        "context": [""]
+        },
+        {"tag": "experience",
+        "patterns": ["It was nice talking to you", "Nice to meet you", "Nice experience with talking to you"],
+        "responses": ["Thank you, hope you queries are resolved ", "Nice to meet you too"],
+        "context": [""]
+        },
+        {"tag": "angry",
+        "patterns": ["I am angry", "You are very irritating", "You make me angry"],
+        "responses": ["Oh! I am really sorry, how can we help you", "Sorry for the inconvenience, we would love to help you."],
+        "context": [""]
+        },
+        {"tag": "sorry",
+        "patterns": ["Sorry", "I am sorry"],
+        "responses": ["It' okk how can we help you"],
+        "context": [""]
+        },
+        {"tag": "about",
+        "patterns": ["How can you help me", "what can i ask you about ", "how will you be helpful to me"],
+        "responses": ["You can ask me about your queries related to credit suisse", "I will help you with your queries about credit suisse"],
+        "context": [""]
+        },
+        {"tag": "satisfied",
+        "patterns": ["satisfactoryworkflowcontinuity"],
+        "responses": ["Glad I could help", "Happy to help out"],
+        "context": [""]
+        },
+        {"tag": "create_incident",
+        "patterns": ["discardedchannelagent"],
+        "responses": ["I will create an incident to our ITSM. An executive will get in touch with you shortly."],
+        "context": [""]
+        }
+   ]
+}

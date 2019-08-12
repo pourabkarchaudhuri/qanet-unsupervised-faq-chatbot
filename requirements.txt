@@ -1,0 +1,16 @@
+nose2==0.8.0
+tensorflow==1.9
+keras==2.2.4
+nltk==3.3
+spacy==2.0.12
+Flask==1.0.2
+pandas==0.23.4
+flask_cors
+gensim==3.7.3
+gunicorn==19.9.0
+numpy==1.15.0
+requests==2.19.1
+textblob==0.15.3
+scrapy==1.6.0
+html2text==2018.1.9
+pypiwin32

@@ -1,0 +1,62 @@
+[
+    {
+        "MESSAGE": "What are e-documents?",
+        "RESPONSE": "You can receive your banking receipts and documents electronically as PDFswith Online Banking. This allows you to easily save, copy, or forward thereceipts. The receipts will also be available for 24 months in Online Bankingunless you delete them."
+    },
+    {
+        "MESSAGE": "What are the advantages of e-documents?",
+        "RESPONSE": "  * They are easy to manage and can be stored, copied, and forwarded very simply  * As the records are not sent by post, they are available more quickly  * E-documents are available in Online Banking for two years  * Large selection of documents available  * The electronic bill is free of charge"
+    },
+    {
+        "MESSAGE": "How long are e-documents kept for?",
+        "RESPONSE": "If not deleted by the user, documents remain in the e-documents inbox ofOnline Banking for 24 months."
+    },
+    {
+        "MESSAGE": "What happens to my e-documents if the Online Banking contract is canceled?",
+        "RESPONSE": "If the contract is canceled, then all documents will only be sent by post. Allnon-opened records of the previous 30 days will also be sent by post. Non-opened records older than 30 days will not be printed. Clients should save orprint older records."
+    },
+    {
+        "MESSAGE": "Can new copies of records be ordered?",
+        "RESPONSE": "Records can be re-ordered as hard copies from the Relationship Managers. Acharge may be made for dispatching hard-copy records. Records that have beendeleted by the user cannot be re-sent electronically."
+    },
+    {
+        "MESSAGE": "How can I access my document box?",
+        "RESPONSE": "You can follow the link to your e-documents on the welcome page of yourdocument box, or alternatively, via the Client Center -> e-Documents ->Document box. If you have unopened e-documents in your document box, thesewill then be displayed on the welcome page and you may access them directlyfrom there."
+    },
+    {
+        "MESSAGE": "How can I use the settings to customize my own pages in Online Banking?",
+        "RESPONSE": "Under \u201cMy Profile\u201d you can find the two areas \u201cGeneral Options\u201d and \u201cAreaOptions\u201d that allow you to personalize specific settings in Online Banking."
+    },
+    {
+        "MESSAGE": "What are pending items?",
+        "RESPONSE": "Personal pending items may be:  * Payment orders for authorization after login  * Corporate actions for processingPending items can be activated as the starting page after login."
+    },
+    {
+        "MESSAGE": "How can I change my password?",
+        "RESPONSE": "The password can be changed under \u201cMy Profile\u201d and \u201cGeneral Options\u201d. However,if you have forgotten your password or there is an error, please contact yourRelationship Manager."
+    },
+    {
+        "MESSAGE": "How do \u201cMy Links\u201d work?",
+        "RESPONSE": "Once your links list has been activated, it appears at the top of your mainnavigation bar, allowing you to reach the screens you want even more quickly."
+    },
+    {
+        "MESSAGE": "What are \u201cUser Rights\u201d?",
+        "RESPONSE": "Only the access rights of other users in the same contract group as the userwho is logged on are visible.    As a user with collective issuing rights, you can also see which users fromthe same contract group also have collective issuing rights. You can do thiswhile inputting a payment or after transmission (also see the \u201cUser Rights\u201dlink after \u201cSend\u201d).    If a previously entered payment was modified or approved, you will also seewhich users from the same contract group have collective issuing rights (seelink \u201cUser Rights\u201d after \u201cSend\u201d). The user who is logged in is not included."
+    },
+    {
+        "MESSAGE": "How do I know who is authorized for my separate contracts?",
+        "RESPONSE": "You can review this in Online Banking under \u201cContracts/User Rights.\u201d"
+    },
+    {
+        "MESSAGE": "What can I do in Settings?",
+        "RESPONSE": "You can use this area to configure individual settings for your OnlineBanking.  Default setting for accounts:  * You can use this option to choose which account you want to be displayed first when calling up a detail page (e.g. Bookings)  * Preferred balance: The balance selected in this option is displayed in the upper selection of the account detail pages. This is used to calculate the balance preview. "
+    },
+    {
+        "MESSAGE": "Default setting for safekeeping accounts",
+        "RESPONSE": "Default safekeeping account: You can use this option to choose the safekeepingaccount to be displayed first when calling up the Safekeeping Accounts page inthe Accounts & Assets area."
+    },
+    {
+        "MESSAGE": "Default setting for assets",
+        "RESPONSE": "Valuation currency: You can use this option to specify that the market valueon the overview page should be displayed in a currency other than Swissfrancs."
+    }
+]

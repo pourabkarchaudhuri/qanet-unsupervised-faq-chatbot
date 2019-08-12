@@ -1,0 +1,606 @@
+[
+  {
+    "MESSAGE": "Where can I learn about internship programs for undergraduates?",
+    "RESPONSE": "You can learn about our programs by attending recruitment fairs or events, participating in a Virtual Recruiting webinar, inquiring with your campus career office or visiting our Programs pages and Events calendar."
+  },
+  {
+    "MESSAGE": "Does Credit Suisse offer internships for MBA students and others with an advanced degree?",
+    "RESPONSE": "Yes. Our Associate internship programs are geared toward MBAs and other graduates. You can read more about these in our Programs pages.\n"
+  },
+  {
+    "MESSAGE": "Do I need to be a Business or Economics major to apply?",
+    "RESPONSE": "No. Many of our programs accept applicants from all disciplines and degree majors, though some programs are geared toward undergraduates and some are geared toward graduate students.\n"
+  },
+  {
+    "MESSAGE": "What's the difference between an Analyst and Associate?",
+    "RESPONSE": "Our Analyst programs are available to penultimate year students, while Associate programs are designed to give MBA and JD students a comparable experience to that of a first-year Associate."
+  },
+  {
+    "MESSAGE": "How long are internships?",
+    "RESPONSE": "Our internship programs vary in length, but a summer internship typically lasts three months."
+  },
+  {
+    "MESSAGE": "When am I expected to start if I am offered an internship?",
+    "RESPONSE": "Start dates vary by region. In most regions, your start date will align with university term dates, and generally, the main internship time is over the summer months."
+  },
+  {
+    "MESSAGE": "Do you offer internships at other times?",
+    "RESPONSE": "In some regions we offer\u00c2\u00a0off-cycle Internship Programs\u00c2\u00a0that are available at different points throughout the year."
+  },
+  {
+    "MESSAGE": "When will Credit Suisse visit my campus?",
+    "RESPONSE": "You can find out about campus visits from your campus career office or by checking our\u00c2\u00a0Events\u00c2\u00a0calendar"
+  },
+  {
+    "MESSAGE": "Can I apply to more than one business area?",
+    "RESPONSE": "Yes. You may apply to up to two programs in different regions and lines of business. When you apply, you'll be asked to indicate your areas of interest."
+  },
+  {
+    "MESSAGE": "How important is my work experience?",
+    "RESPONSE": "You do not need relevant work experience to be considered for Analyst roles. MBA students applying to Associate roles typically need a minimum of three years of work experience, but it is not required that your work experience be in financial services or a related field."
+  },
+  {
+    "MESSAGE": "What type of training will I receive during the internship?",
+    "RESPONSE": "Most programs offer a mix of classroom-style and on-the-job training. Program details vary by business and region."
+  },
+  {
+    "MESSAGE": "Does Credit Suisse offer scholarships?",
+    "RESPONSE": "You can learn more about scholarships that we offer by visiting our Programs pages, and looking under\u00c2\u00a0Diversity and Inclusion\u00c2\u00a0programs."
+  },
+  {
+    "MESSAGE": "I am still in high school. Are there opportunities for me?",
+    "RESPONSE": "In Switzerland,\u00c2\u00a0Apprenticeships and the Junior Banking Program are an option for high-school students. Local language proficiency (German, French or Italian) is required."
+  },
+  {
+    "MESSAGE": "What is the difference between a portfolo and safekeeping account?",
+    "RESPONSE": "The portfolio shows both safekeeping account positions and the assigned accounts forward transactions and options for precious metals and foreign exchange. The safekeeping account shows only positions with a Security Number/ISIN."
+  },
+  {
+    "MESSAGE": "How can I order a statement of investments?",
+    "RESPONSE": "Select the Order Statement tab under Portfolio/Safekeeping Account, and select the appropriate portfolio/safekeeping account. Confirm with Go and use the Order button to confirm the request. The ordered report will be sent by post or as an e-document, depending on mailing instructions."
+  },
+  {
+    "MESSAGE": "Why do I sometimes see different account balances in\nPortfolio/Safekeeping Account and Account?",
+    "RESPONSE": "The account balances in \"Portfolio\" show net information as of today/as of the record date. Bookings for future dates and provisional bookings are also included in the \"Account list\" and full overview. "
+  },
+  {
+    "MESSAGE": "What price is used to convert foreign currency positions?",
+    "RESPONSE": "For valuation, either the current average exchange rate real-time view or the average exchange rate on the evening of the chosen valuation date is used."
+  },
+  {
+    "MESSAGE": "What information can I find in \"Asset Allocation\"?",
+    "RESPONSE": "\"Asset Allocation\" shows the asset categories and currencies in which the portfolio assets or safekeeping account assets are invested."
+  },
+  {
+    "MESSAGE": "What information can I find under \"Sector Analysis\"?",
+    "RESPONSE": "The sector analysis and analysis by debtor category also included on this page show the sectors in which the assets are invested and the debtor categories in which the nominal assets of the portfolio/safekeeping account are invested."
+  },
+  {
+    "MESSAGE": "What information can I find in the \"Country Analysis\"?",
+    "RESPONSE": "The country analysis shows the countries in which the portfolio/safekeeping account assets are invested."
+  },
+  {
+    "MESSAGE": "What information can I find in the \"Maturity Analysis\"?",
+    "RESPONSE": "The maturity analysis shows when the nominal assets are likely to mature. Maturities of more than or less than one year are differentiated."
+  },
+  {
+    "MESSAGE": "How can I acces the portfolio, if I can only see the safekeeping account?",
+    "RESPONSE": "Please contact your Relationship Manager, who will be able to activate your authorization."
+  },
+  {
+    "MESSAGE": "How can I print pages in Portfolio/Safekeeping Account?",
+    "RESPONSE": "Use the PDF button, which you will find at the top and bottom of the page on the right-hand side. Depending on the asset classes in your safekeeping account, individual pages can contain a large amount of information.\u00c2\u00a0"
+  },
+  {
+    "MESSAGE": "Where can I check the current value of my securities in Portfolio/Safekeeping Account?",
+    "RESPONSE": "You get the most recent values by choosing \"Real-Time Positions\" and recalculating. The selected option is saved for future use per portfolio/safekeeping account. Depending on the security, the values shown are real-time, delayed, from the previous day, or older."
+  },
+  {
+    "MESSAGE": "Why am I unable to trade with one fund usuig Online Banking even though it is in my safekeeping account?",
+    "RESPONSE": "Regulatory reasons prevent us from offering and providing details of all funds on the internet. Please contact your Relationship Manager for additional information."
+  },
+  {
+    "MESSAGE": "How do the payment templates work and how can I set them up?",
+    "RESPONSE": "You can create a template for recurring payments with different amounts or payment dates. The easiest way is to save the beneficiary information when entering the first payment under Single Payments. Then select a folder from Save as Template before clicking on Next. You can save and manage these templates in folders you create yourself."
+  },
+  {
+    "MESSAGE": "How can I permanently change the account to be debited for payments?",
+    "RESPONSE": "Online Banking always takes the first account as the account to be debited for payment orders. You can choose a different account as the standard account to be debited for payment orders by going to My Profile and then Settings and Payments."
+  },
+  {
+    "MESSAGE": "Up to what poin can I issue and change/delete a payment order in Online Banking?",
+    "RESPONSE": "Account transfers can be issued up to 21:00 on the day of execution free of charge. Payment orders can be issued up to 07:00 on the day of execution. Payment orders for single execution can be modified or deleted up until 24:00 on the day before execution."
+  },
+  {
+    "MESSAGE": "How can I change or delete a payment?\u00c2\u00a0",
+    "RESPONSE": "Payments entered in Online Banking can be modified or deleted directly in the Administer payments menu under Payments overview."
+  },
+  {
+    "MESSAGE": "How can I set a maximum amount per payment?",
+    "RESPONSE": "In the Client Center, under \"Settings\" you can select the navigation item \"Payments\" to set your maximum payment amount."
+  },
+  {
+    "MESSAGE": "Can I make a transfer from my savings account?",
+    "RESPONSE": "You can only debit your savings account in Online Banking with an internal transfer to another account. The account to be credited must be included in the same Online Banking contract."
+  },
+  {
+    "MESSAGE": "How much does a payment cost?",
+    "RESPONSE": "Charges for Online Banking payments for private clients/corporate clients can be found in the Table of\u00c2\u00a0fees and commissions."
+  },
+  {
+    "MESSAGE": "What is important when making an international payment within the EU/EEA?",
+    "RESPONSE": "Follow the SEPA transfer standards for economical payments within the EU/EEA"
+  },
+  {
+    "MESSAGE": "I want to check the details of an old payment for which I gave instructions in Online Banking. What do I do?",
+    "RESPONSE": "Payment instructions can be viewed for 45 days in Online Banking under Administer Payments. All older payment details can be requested from your Relationship Manager."
+  },
+  {
+    "MESSAGE": "What is the difference between execution day and value date?",
+    "RESPONSE": "Execution day refers to the day on which the payment order is processed. The value date is the day from which interest is calculated for debit and credit items."
+  },
+  {
+    "MESSAGE": "What is the function Show/Hide Process? (for corporate clients only)",
+    "RESPONSE": "This function allows you to see which user issued, modified, approved or deleted an order and when. Show Process displays this information, and Hide Process conceals it again."
+  },
+  {
+    "MESSAGE": "Which types of securities can be traded using Online Banking?",
+    "RESPONSE": "Equity ,bonds,warrants,Investment funds,Rights,ETFS"
+  },
+  {
+    "MESSAGE": "What does a securities order cost?",
+    "RESPONSE": "The cost of a securities order varies according to the volume, stock exchange, and type of security. You will find an overview of prices in the Table of Fees and Commissions."
+  },
+  {
+    "MESSAGE": "What do different types of orders mean?",
+    "RESPONSE": "\u00c2\u00a0A market order is executed at the best bid or ask price available on the order book at the time of entry."
+  },
+  {
+    "MESSAGE": "Can securities orders for investment funds be input with a limit?",
+    "RESPONSE": "It is possible to enter a limit for investment funds that are traded in the secondary market.It is not possible to enter a limit for investment funds that are traded in the primary market"
+  },
+  {
+    "MESSAGE": "Can an order for an investment fund in the primary market be canceled?",
+    "RESPONSE": "No, these cannot be canceled via Online Banking."
+  },
+  {
+    "MESSAGE": "By when must I input an order for an investment fund in the primary market?",
+    "RESPONSE": "Each fund has its own specific daily time limit for the acceptance of orders, which is set by the market and settlement. The time limits for order entry are listed in Fund Lab under Purchases & Sales."
+  },
+  {
+    "MESSAGE": "What information can I access under Market Data?",
+    "RESPONSE": "Under Market Data, you can find securities investments of almost 200 stock exchanges with all relevant financial information, charts."
+  },
+  {
+    "MESSAGE": "Which stock exchanges are displayed with real-time quotes?",
+    "RESPONSE": "We offer three stock exchanges with real-time quotes: SIX Swiss Exchange, SIX Swiss Exchange Blue Chip, and Scoach."
+  },
+  {
+    "MESSAGE": "Why can I not find the financial instrument that I'm looking for?",
+    "RESPONSE": "If a financial instrument is not activated in our systems, it will not be shown in our application."
+  },
+  {
+    "MESSAGE": "What is the \"Swiss Security Number\"?",
+    "RESPONSE": "This is the security number that is used in Switzerland to identify a financial instrument."
+  },
+  {
+    "MESSAGE": "What is the ticker?",
+    "RESPONSE": "The ticker is a code used on a stock exchange to identify a financial instrument. Each stock exchange has its own ticker for each financial instrument."
+  },
+  {
+    "MESSAGE": "What is the ISIN?",
+    "RESPONSE": "ISIN is the abbreviation for International Security Identification Number. This alphanumeric code is used to identify a financial instrument worldwide."
+  },
+  {
+    "MESSAGE": "What is a RIC?",
+    "RESPONSE": "RIC is the abbreviation for Reuters Identification Code. This code, specific to Reuters, is generally composed of a company identifier code and a stock exchange code, separated by a point."
+  },
+  {
+    "MESSAGE": "How can I save certain settings (grouping or period) for bookings as the default?",
+    "RESPONSE": "The selected settings are automatically saved for the most important fields, and remain valid until you change them."
+  },
+  {
+    "MESSAGE": "Which bookings can be seen under \"Booking entries - Account details\"?",
+    "RESPONSE": "\"Booking entries\" shows the bookings on your account. The default setting shows you the bookings for the last 30 days."
+  },
+  {
+    "MESSAGE": "Where can I find the IBAN, BIC/SWIFT, or clearing number for one of my accounts?",
+    "RESPONSE": "The IBAN is shown on all pages in the account area. The BIC is displayed in the upper section of each account details page.\u00c2\u00a0"
+  },
+  {
+    "MESSAGE": "What are provisional bookings?",
+    "RESPONSE": "Provisional bookings are advance notices of items which are not yet definitively booked and can therefore still be changed."
+  },
+  {
+    "MESSAGE": "How can I export the bookings from a specific month to Excel?",
+    "RESPONSE": "There are two possible options\n"
+  },
+  {
+    "MESSAGE": "Why can I not see any details for incoming payments?",
+    "RESPONSE": "If you find a booking with the text \"Payments\" and \"Global credit according to separate display\", your account is set up in such a way that bookings of the same type are summarized.\u00c2\u00a0"
+  },
+  {
+    "MESSAGE": "Can I include interest detail?",
+    "RESPONSE": "You can make a request to your Relationship Manager, if you want interest details displayed. As soon as interest details are switched on for you, you can include these under Accounts & Assets in the account list by clicking on Edit Table and placing a tick next to interest in the pop-up window."
+  },
+  {
+    "MESSAGE": "Why do I need to re-enter my login details?",
+    "RESPONSE": "PLUS has undergone a major platform change with a new login page.If you left PLUS open in your prior session you may see either a blank page, or a re-direction link.\n"
+  },
+  {
+    "MESSAGE": "Menus do not open when I hover over them.",
+    "RESPONSE": "The menus have been simplified and are now better formatted for mobile use."
+  },
+  {
+    "MESSAGE": "I can't find a menu that was previously at the top level.",
+    "RESPONSE": "The layout of the menus have been redesigned to house all PLUS content, click on the high level menu to find the corresponding items."
+  },
+  {
+    "MESSAGE": "The Fixed Income page has a new layout",
+    "RESPONSE": "The new simpler design makes the Fixed Income research offering easier to digest."
+  },
+  {
+    "MESSAGE": "Fixed Income products are no longer visible on the top level menu.",
+    "RESPONSE": "Product pages are now available within the Fixed Income page."
+  },
+  {
+    "MESSAGE": "The Execution layout is different.",
+    "RESPONSE": "The new layout makes it easier to view full Execution offerings giving you direct access to PrimeTrade and the product execution tools."
+  },
+  {
+    "MESSAGE": "Where can I find the Dodd Frank Disclosures?",
+    "RESPONSE": "Disclosures are now located under the Legal menu."
+  },
+  {
+    "MESSAGE": "Where can I find the Commercial Paper page?",
+    "RESPONSE": "The page is now located under Legal menu, and under Fixed Income > Credit."
+  },
+  {
+    "MESSAGE": "The search box is no longer available on the top right of the page.",
+    "RESPONSE": "The new location of the search box is in line with new page layout and can be found on the left hand side of the page."
+  },
+  {
+    "MESSAGE": "There are additional filters on the right hand side of the search results page.",
+    "RESPONSE": "New search capabilities make it easier to refine your search results and focus on specific topics and authors."
+  },
+  {
+    "MESSAGE": "Where is the Macro page?",
+    "RESPONSE": "Macro publications are now included within Econ/ Strategy."
+  },
+  {
+    "MESSAGE": "Where is the Research Library?",
+    "RESPONSE": "Research publications are now shown on right hand side of the individual product pages under the heading Publications."
+  },
+  {
+    "MESSAGE": "How can I access the Analytics suite?",
+    "RESPONSE": "Now accessible from Fixed Income > Locus Analytics"
+  },
+  {
+    "MESSAGE": "My browser bookmarks no longer work.",
+    "RESPONSE": "Due to the new platform setup any pre-existing bookmarks will no longer work, you will need to re-create your bookmarks."
+  },
+  {
+    "MESSAGE": "My favorite pages within PLUS have been reset.",
+    "RESPONSE": "Underlying PLUS page names have changed so any pre-existing favorites have been reset."
+  },
+  {
+    "MESSAGE": "My default / landing page has been reset.",
+    "RESPONSE": "Underlying PLUS page names have changed so any pre-existing default pages have been reset."
+  },
+  {
+    "MESSAGE": "Why is SecureSign being introduced? \u00c2\u00a0",
+    "RESPONSE": "Credit Suisse places great importance on security in Online Banking. Guaranteeing a high standard of security constantly requires us to implement the latest security technology.\u00c2\u00a0"
+  },
+  {
+    "MESSAGE": "What will change in Online Banking?\u00c2\u00a0",
+    "RESPONSE": "The Online Banking login procedure will change."
+  },
+  {
+    "MESSAGE": "How do I enroll in SecureSign?\u00c2\u00a0",
+    "RESPONSE": "Log in to\u00c2\u00a0Online Banking. In the \"Client Center,\" you will find the option for enrolling in SecureSign under \"My Profile.\""
+  },
+  {
+    "MESSAGE": "What happens after I enroll in SecureSign?",
+    "RESPONSE": "Once you have registered, you will receive an activation letter in the next few days by mail. It will contain your personal activation image for completing your registration."
+  },
+  {
+    "MESSAGE": "Is SecureSign free?\u00c2\u00a0",
+    "RESPONSE": "Yes, use of the SecureSign authentication process, including the SecureSign app, is free of charge.\u00c2\u00a0"
+  },
+  {
+    "MESSAGE": "How can I use several devices to log in with my user ID?\u00c2\u00a0",
+    "RESPONSE": "In order to use more than one device for login with your user ID, you can add more devices after logging into your profile under \"SecureSign.\" After adding a device and perform a new login, you can set it up.\u00c2\u00a0"
+  },
+  {
+    "MESSAGE": "How do I add another user ID on my device?\u00c2\u00a0",
+    "RESPONSE": "In order to use another user ID on a device, you must request SecureSign for the other user ID."
+  },
+  {
+    "MESSAGE": "Can I use SecureSign to log in for multiple users with different IDs?\u00c2\u00a0",
+    "RESPONSE": "One device can be used to log in with up to eight different user IDs.\u00c2\u00a0"
+  },
+  {
+    "MESSAGE": "What do I do with my old SecurID?\u00c2\u00a0",
+    "RESPONSE": "If you use your SecurID as authentication procedure for other programs e.g. SecureMail, you will continue to require this token."
+  },
+  {
+    "MESSAGE": "What requirements are there for the SecureSign method?\u00c2\u00a0",
+    "RESPONSE": "To use SecureSign, you need a smartphone or tablet (e.g. iPad) with a camera and current operating system.\u00c2\u00a0"
+  },
+  {
+    "MESSAGE": "I do not own a smartphone. Can I still use SecureSign?\u00c2\u00a0",
+    "RESPONSE": "Currently, SecureSign requires a smartphone or tablet, either made by Apple or a maker of Android devices"
+  },
+  {
+    "MESSAGE": "Can I use SecureSign on my Windows Phone?\u00c2\u00a0",
+    "RESPONSE": "We do not currently offer SecureSign for the Windows Phone operating system."
+  },
+  {
+    "MESSAGE": "Can I use SecureSign on my jailbroken or rooted smartphone or tablet?",
+    "RESPONSE": "We advise against the use with such devices, as \"jailbreaking\" and \"rooting\" lower the security of your phone."
+  },
+  {
+    "MESSAGE": "Where can I optain SecureSign?",
+    "RESPONSE": "The SecureSign app is available around the world from Apple's App Store and the Google Play Store."
+  },
+  {
+    "MESSAGE": "Can SecureSign also be used without internet access?\u00c2\u00a0",
+    "RESPONSE": "Internet access is required only for the initial download of the SecureSign app. Afterwards, the method operates without a telephone or internet connection, so it can be used abroad or in locations with weak mobile phone coverage."
+  },
+  {
+    "MESSAGE": "What does \"transaction signing\" mean?\u00c2\u00a0",
+    "RESPONSE": "Transaction signing refers to the confirmation of certain transactions through the additional entry of a code. Transaction confirmation is used when changing passwords, adding a new device, or entering payments.\u00c2\u00a0"
+  },
+  {
+    "MESSAGE": "How can I determine the device ID of a device?\u00c2\u00a0",
+    "RESPONSE": "To determine the device ID of a device, go to the SecureSign app settings .In the Settings, the device IDs are shown in a list."
+  },
+  {
+    "MESSAGE": "Can I continue to use offline payment software after switching to SecureSign?",
+    "RESPONSE": "Currently, you can continue to use offline payment software with your existing security process even after switching to SecureSign. The availability of SecureSign for the offline payment software depends on the software manufacturer."
+  },
+  {
+    "MESSAGE": "How long is my activation image valid?\u00c2\u00a0",
+    "RESPONSE": "Your personal activation image never expires, thus enabling you to activate additional devices for use with the SecureSign method at a later date if needed."
+  },
+  {
+    "MESSAGE": "I lost my activation letter; what should I do?",
+    "RESPONSE": "If you lose your activation letter, call our Hotline +352 46 00 11 900\u00c2\u00a0to request a new one."
+  },
+  {
+    "MESSAGE": "I am unable to scan my activation image. What do I need to do?\u00c2\u00a0",
+    "RESPONSE": "Smooth out the letter, and try to scan it again with the SecureSign app under good lighting conditions. If repeated attempts continue to fail, please contact our Hotline +352 46 00 11 900. You may need to request a new activation letter."
+  },
+  {
+    "MESSAGE": "Why will the activation graphic be sent by mail?\u00c2\u00a0",
+    "RESPONSE": "The activation graphic will be sent physically by mail for security reasons."
+  },
+  {
+    "MESSAGE": "How long does the SecureSign image shown in Online Banking remain valid?",
+    "RESPONSE": "The multi-colored image displayed in Online Banking is valid for one minute."
+  },
+  {
+    "MESSAGE": "What do I do to receive a new and valid SecureSign image?\u00c2\u00a0",
+    "RESPONSE": "To receive a new SecureSign image in Online Banking, you need to go to the Online Banking homepage and re-enter your user ID and password."
+  },
+  {
+    "MESSAGE": "I have a new smartphone or tablet. Can I continue to use SecureSign after I've restored the device from a backup?",
+    "RESPONSE": "iOS and Android security settings prevent restoration of the previously activated SecureSign app. The device must be reactivated after restoration. You can add a new or additional device yourself in Online Banking.\u00c2\u00a0"
+  },
+  {
+    "MESSAGE": "I reset my smartphone or tablet. Why is SecureSign not working?",
+    "RESPONSE": "After resetting your smartphone or tablet, you will need to reactivate the app using your personal activation image.\u00c2\u00a0"
+  },
+  {
+    "MESSAGE": "I have submitted a payment order, but I was not required to confirm it with SecureSign. Why?",
+    "RESPONSE": "When you make payments to recipients we know, such as your insurance company, we generally do not ask you to confirm them. \n"
+  },
+  {
+    "MESSAGE": "I accidentally deleted the SecureSign app from my Smartphone or tablet. What do I need to do?",
+    "RESPONSE": "Please download the SecureSign app from the Apple App Store or Google Play Store again. Then please contact our Hotline +352 46 00 11 900\u00c2\u00a0for assistance.\u00c2\u00a0"
+  },
+  {
+    "MESSAGE": "Why is most of my iPhone/iPad screen black after starting the SecureSign app?",
+    "RESPONSE": "In order to be able to use the SecureSign app, the camera authorizations for it must be activated. After selecting the SecureSign app, the authorizations can be issued in the iPhone/iPad settings under \"Camera.\""
+  },
+  {
+    "MESSAGE": "I have lost my smartphone/tablet with which I use SecureSign. What do I do?",
+    "RESPONSE": "If you have lost your smartphone or tablet, you should deselect it for Online Banking. If you have another device set up, you can do this under \"SecureSign\" in your profile"
+  },
+  {
+    "MESSAGE": "How can I save certain settings (grouping or period) for bookings as the default?",
+    "RESPONSE": "The selected settings are automatically saved for the most important fields, and remain valid until you change them."
+  },
+  {
+    "MESSAGE": "What is a RIC?",
+    "RESPONSE": "RIC is the abbreviation for Reuters Identification Code. This code, specific to Reuters, is generally composed of a company identifier code and a stock exchange code, separated by a point. Example: CSGN.VX is the RIC for Credit Suisse shares traded on the SWX Europe Limited exchange. For an index, the RIC always starts with a decimal point, followed by an abbreviation. Example: \".SSMI\" is the RIC for the SMI."
+  },
+  {
+    "MESSAGE": "What is the ISIN?",
+    "RESPONSE": "ISIN is the abbreviation for International Security Identification Number. This alphanumeric code is used to identify a financial instrument worldwide."
+  },
+  {
+    "MESSAGE": "What is the ticker?",
+    "RESPONSE": "The ticker is a code used on a stock exchange to identify a financial instrument. Each stock exchange has its own ticker for each financial instrument."
+  },
+  {
+    "MESSAGE": "What is the \"Swiss Security Number\"?",
+    "RESPONSE": "This is the security number that is used in Switzerland to identify a financial instrument."
+  },
+  {
+    "MESSAGE": "Why can I not find the financial instrument that I'm looking for?",
+    "RESPONSE": "If a financial instrument is not activated in our systems, it will not be shown in our application. It is also possible that regulatory reasons prevent us from providing details of some financial instruments online. For additional information, please contact your Relationship Manager."
+  },
+  {
+    "MESSAGE": "Which stock exchanges are displayed with real-time quotes?",
+    "RESPONSE": "We offer three stock exchanges with real-time quotes: SIX Swiss Exchange, SIX Swiss Exchange Blue Chip, and Scoach."
+  },
+  {
+    "MESSAGE": "What information can I access under Market Data?",
+    "RESPONSE": "Under Market Data, you can find securities investments of almost 200 stock exchanges with all relevant financial information, charts."
+  },
+  {
+    "MESSAGE": "Can an order for an investment fund in the primary market be canceled?",
+    "RESPONSE": "No, these cannot be canceled via Online Banking."
+  },
+  {
+    "MESSAGE": "By when must I input an order for an investment fund in the primary market?",
+    "RESPONSE": "Each fund has its own specific daily time limit for the acceptance of orders, which is set by the market and settlement. The time limits for order entry are listed in Fund Lab under Purchases & Sales."
+  },
+  {
+    "MESSAGE": "Can securities orders for investment funds be input with a limit?",
+    "RESPONSE": "It is possible to enter a limit for investment funds that are traded in the secondary market (officially traded on a stock exchange). It is not possible to enter a limit for investment funds that are traded in the primary market (purchase/sale of a new issue, or issues/redemptions)."
+  },
+  {
+    "MESSAGE": "Market order",
+    "RESPONSE": "A market order is executed at the best bid or ask price available on the order book at the time of entry."
+  },
+  {
+    "MESSAGE": "Limit order",
+    "RESPONSE": "With a limit order, the client sets a price for the purchase or sale of the securities."
+  },
+  {
+    "MESSAGE": "On stop order ",
+    "RESPONSE": "s soon as the trigger price is reached, a stop limit order becomes a normal limit order.\nAn on stop order is a purchase order, which must be executed immediately the security reaches a certain price level. As soon as the trigger price is reached, the order is executed at market."
+  },
+  {
+    "MESSAGE": "Stop loss order",
+    "RESPONSE": "A stop loss order is a limited sell order. If the trigger price is reached, the order is converted into a market order and executed at the next best price."
+  },
+  {
+    "MESSAGE": "Stop limit order",
+    "RESPONSE": "Once the trigger price is reached, a stop limit order becomes a standard limited order."
+  },
+  {
+    "MESSAGE": "What does a securities order cost?",
+    "RESPONSE": "The cost of a securities order varies according to the volume, stock exchange, and type of security. You will find an overview of prices in the Table of Fees and Commissions."
+  },
+  {
+    "MESSAGE": "Which types of securities can be traded using Online Banking?",
+    "RESPONSE": "Equities, Bonds, Warrants, Investment, funds, Call and put options, Rights, ETFs"
+  },
+  {
+    "MESSAGE": "What is the function Show/Hide Process? (for corporate clients only)",
+    "RESPONSE": "This function allows you to see which user issued, modified, approved or deleted an order and when. Show Process displays this information, and Hide Process conceals it again."
+  },
+  {
+    "MESSAGE": "What is the difference between execution day and value date?",
+    "RESPONSE": "Execution day refers to the day on which the payment order is processed. The value date is the day from which interest is calculated for debit and credit items."
+  },
+  {
+    "MESSAGE": "I want to check the details of an old payment for which I gave instructions in Online Banking. What do I do?",
+    "RESPONSE": "Payment instructions can be viewed for 45 days in Online Banking under Administer Payments. All older payment details can be requested from your Relationship Manager."
+  },
+  {
+    "MESSAGE": "What is important when making an international payment within the EU/EEA?",
+    "RESPONSE": "EUR transactions within the EU/EEA region, IBAN (International Bank Account Number) of the beneficiary, BIC (Bank Identifier Code) or details of the beneficiary bank for payments outside Luxembourg, No payment routing parameters, No message to the bank, Shared Charges option (Shared, SHA)"
+  },
+  {
+    "MESSAGE": "How much does a payment cost?",
+    "RESPONSE": "Charges for Online Banking payments for private clients/corporate clients can be found in the Table of fees and commissions."
+  },
+  {
+    "MESSAGE": "Can I make a transfer from my savings account?",
+    "RESPONSE": "You can only debit your savings account in Online Banking with an internal transfer to another account. The account to be credited must be included in the same Online Banking contract."
+  },
+  {
+    "MESSAGE": "How can I set a maximum amount per payment?",
+    "RESPONSE": "In the Client Center, under \"Settings\" you can select the navigation item \"Payments\" to set your maximum payment amount."
+  },
+  {
+    "MESSAGE": "How can I change or delete a payment? ",
+    "RESPONSE": "Payments entered in Online Banking can be modified or deleted directly in the Administer payments menu under Payments overview."
+  },
+  {
+    "MESSAGE": "Up to what poin can I issue and change/delete a payment order in Online Banking?",
+    "RESPONSE": "Account transfers can be issued up to 21:00 on the day of execution free of charge. Payment orders can be issued up to 07:00 on the day of execution. Payment orders for single execution can be modified or deleted up until 24:00 on the day before execution."
+  },
+  {
+    "MESSAGE": "How can I permanently change the account to be debited for payments?",
+    "RESPONSE": "Online Banking always takes the first account as the account to be debited for payment orders. You can choose a different account as the standard account to be debited for payment orders by going to My Profile and then Settings and Payments."
+  },
+  {
+    "MESSAGE": "How do the payment templates work and how can I set them up?",
+    "RESPONSE": "You can create a template for recurring payments with different amounts or payment dates. The easiest way is to save the beneficiary information when entering the first payment under Single Payments. Then select a folder from Save as Template before clicking on Next. You can save and manage these templates in folders you create yourself. You can then modify and\nexecute future payments simply by going to Manage Payments and Templates/Lists. The template is always stored under the beneficiary\u00e2\u20ac\u2122s name."
+  },
+  {
+    "MESSAGE": "Why am I unable to trade with one fund usuig Online Banking even though it is in my safekeeping account?",
+    "RESPONSE": "Regulatory reasons prevent us from offering and providing details of all funds on the internet. Please contact your Relationship Manager for additional information."
+  },
+  {
+    "MESSAGE": "Where can I check the current value of my securities in Portfolio/Safekeeping Account?",
+    "RESPONSE": "You get the most recent values by choosing \"Real-Time Positions\" and recalculating. The selected option is saved for future use per portfolio/safekeeping account. Depending on the security, the values shown are real-time, delayed, from the previous day, or older. You can see the source of the price and the appropriate delay by moving the mouse over the \"Last Price\" or \"Price\" field. The information is also available in the detailed pop-up window."
+  },
+  {
+    "MESSAGE": "How can I print pages in Portfolio/Safekeeping Account?",
+    "RESPONSE": "Use the PDF button, which you will find at the top and bottom of the page on the right-hand side. Depending on the asset classes in your safekeeping account, individual pages can contain a large amount of information. To allow you to print this as well, the information is displayed in a reduced print version. The \"Show All Details\" link takes you to the page with all the detailed information."
+  },
+  {
+    "MESSAGE": "How can I acces the portfolio, if I can only see the safekeeping account?",
+    "RESPONSE": "Please contact your Relationship Manager, who will be able to activate your authorization."
+  },
+  {
+    "MESSAGE": "What information can I find in the \"Maturity Analysis\"?",
+    "RESPONSE": "The maturity analysis shows when the nominal assets are likely to mature. Maturities of more than or less than one year are differentiated. You can also see forecast income on this page (e.g. expected dividend payments)."
+  },
+  {
+    "MESSAGE": "What information can I find in the \"Country Analysis\"?",
+    "RESPONSE": "The country analysis shows the countries in which the portfolio/safekeeping account assets are invested."
+  },
+  {
+    "MESSAGE": "What information can I find under \"Sector Analysis\"?",
+    "RESPONSE": "The sector analysis and analysis by debtor category also included on this page show the sectors in which the assets are invested and the debtor categories in which the nominal assets of the portfolio/safekeeping account are invested."
+  },
+  {
+    "MESSAGE": "What information can I find in \"Asset Allocation\"?",
+    "RESPONSE": "\"Asset Allocation\" shows the asset categories and currencies in which the portfolio assets or safekeeping account assets are invested."
+  },
+  {
+    "MESSAGE": "What price is used to convert foreign currency positions?",
+    "RESPONSE": "For valuation, either the current average exchange rate (real-time view) or the average exchange rate on the evening of the chosen valuation date is used."
+  },
+  {
+    "MESSAGE": "Why do I sometimes see different account balances in Portfolio/Safekeeping Account and Account?",
+    "RESPONSE": "The account balances in \"Portfolio\" show net information as of today/as of the record date. Bookings for future dates and provisional bookings are also included in the \"Account list\" and full overview. This can lead to different account balances appearing in different areas. However, it is easy to determine from the bookings in the appropriate account, which bookings are included in which account balance."
+  },
+  {
+    "MESSAGE": "How can I order a statement of investments?",
+    "RESPONSE": "Select the Order Statement tab under Portfolio/Safekeeping Account, and select the appropriate portfolio/safekeeping account. Confirm with Go and use the Order button to confirm the request. The ordered report will be sent by post or as an e-document, depending on mailing instructions."
+  },
+  {
+    "MESSAGE": "What is the difference between a portfolo and safekeeping account?",
+    "RESPONSE": "The portfolio shows both safekeeping account positions and the assigned accounts (including precious metals and money market accounts), forward transactions and options for precious metals and foreign exchange. The safekeeping account shows only positions with a Security Number/ISIN. Under Portfolio/Safekeeping Account you can choose whether you wish to see/analyze the full portfolio or just the safekeeping account positions. To do this, choose the option Display safekeeping account positions only and then recalculate. To make changes in the portfolio elements, please contact your relationship manager."
+  },
+  {
+    "MESSAGE": "Can I include interest detail?",
+    "RESPONSE": "You can make a request to your Relationship Manager, if you want interest details displayed. As soon as interest details are switched on for you, you can include these under Accounts & Assets in the account list by clicking on Edit Table and placing a tick next to interest in the pop-up window."
+  },
+  {
+    "MESSAGE": "Why can I not see any details for incoming payments?",
+    "RESPONSE": "If you find a booking with the text \"Payments\" and \"Global credit according to separate display\", your account is set up in such a way that bookings of the same type are summarized. If you want to change this and to have each credit booked separately (including the sender's details), please contact your Relationship Manager."
+  },
+  {
+    "MESSAGE": "How can I export the bookings from a specific month to Excel?",
+    "RESPONSE": "Select the required account, and choose \"Search Bookings\" in the left navigation menu. Then use the time period as the search parameter. When the results are displayed, click on the \"Export\" button under the bookings found."
+  },
+  {
+    "MESSAGE": "export the bookings from a Excel?",
+    "RESPONSE": "Select the desired account from the account list. Select \"Current month\" to the right above the displayed bookings, and click the \"GO\" button to confirm. Now you can scroll backward and forward by month under the displayed bookings. When the desired month is displayed, click on the \"Export\" link."
+  },
+  {
+    "MESSAGE": "What are provisional bookings?",
+    "RESPONSE": "Provisional bookings are advance notices of items which are not yet definitively booked and can therefore still be changed. However, since these provisional bookings also apply to the balance, provisional cash receipts can also be obtained at ATMs."
+  },
+  {
+    "MESSAGE": "Where can I find the IBAN, BIC/SWIFT, or clearing number for one of my accounts?",
+    "RESPONSE": "The IBAN is shown on all pages in the account area. The BIC is displayed in the upper section of each account details page. To display the clearing number, select \"Show All Details\" at the top of the account details pages."
+  },
+  {
+    "MESSAGE": "Which bookings can be seen under \"Booking entries - Account details\"?",
+    "RESPONSE": "\"Booking entries\" shows the bookings on your account. The default setting shows you the bookings for the last 30 days. You can also choose a different period or number of bookings on the bookings page itself. The selection is saved for later Online Banking sessions."
+  },
+  {
+    "MESSAGE": "How can I save certain settings (grouping or period) for bookings as the default?",
+    "RESPONSE": "The selected settings are automatically saved for the most important fields, and remain valid until you change them."
+  }
+]
