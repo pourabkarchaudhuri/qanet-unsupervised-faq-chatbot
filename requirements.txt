@@ -11,6 +11,6 @@ gunicorn==19.9.0
 numpy==1.15.0
 requests==2.19.1
 textblob==0.15.3
-scrapy==1.6.0
+scrapy==2.6.2
 html2text==2018.1.9
 pypiwin32
